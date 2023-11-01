@@ -1,0 +1,5 @@
+FUTURE PLANS
+- Create a good portfolio website
+- Learn PHP
+- Learn more about using Bootstrap
+- Create a platform to manage blogs
