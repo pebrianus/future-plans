@@ -3,3 +3,4 @@ FUTURE PLANS
 - Learn PHP
 - Learn more about using Bootstrap
 - Create a platform to manage blogs
+- Create a website with CRUD and autentication to put in portfolio website
