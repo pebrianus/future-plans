@@ -4,6 +4,7 @@ FUTURE PLANS
 - Learn more about using Bootstrap
 - Create a platform to manage blogs
 - Create a website with CRUD and autentication to put in portfolio website
+- Create a website to manage pdf that looks like a library web
 - Create a web application for student attendance
 - Create a web application for a restaurant or food stand to take an order
 - Learn Java
